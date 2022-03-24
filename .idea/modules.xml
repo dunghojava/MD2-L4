@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MD1-L4.iml" filepath="$PROJECT_DIR$/MD1-L4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuadraticEquationMain/QuadraticEquationMain.iml" filepath="$PROJECT_DIR$/QuadraticEquationMain/QuadraticEquationMain.iml" />
     </modules>
   </component>
 </project>
